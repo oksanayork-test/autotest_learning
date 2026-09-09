@@ -1,0 +1,14 @@
+# Настройки сред разработки (IDE)
+.idea/
+.vs/
+.vscode/
+
+# Файлы конфигурации Python и виртуального окружения
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
