@@ -5,6 +5,7 @@
 
 # Файлы конфигурации Python и виртуального окружения
 __pycache__/
+.pytest_cache/
 *.pyc
 *.pyo
 *.pyd
